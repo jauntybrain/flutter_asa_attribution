@@ -1,7 +1,4 @@
 #import "FlutterAsaAttributionPlugin.h"
-#import <iAd/iAd.h>
-#import <AdServices/AdServices.h>
-#import <AppTrackingTransparency/AppTrackingTransparency.h>
 #import "AsaTool.h"
 
 @implementation FlutterAsaAttributionPlugin
