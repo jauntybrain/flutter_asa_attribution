@@ -14,7 +14,7 @@
 
 @implementation AsaTool
 
-+ (nullable NSString *)attributionToken {
++ (NSString * _Nullable)attributionToken {
 #if HAS_ADSERVICES
     if (@available(iOS 14.3, *)) {
         NSError *error;
